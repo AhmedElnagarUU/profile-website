@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ 
+  @apply text-[hsl(220,47%,93%)]
+}
+
+.btn{
+  @apply flex mx-5 justify-center mt-10 items-center gap-2 rounded-full py-2 px-4 whitespace-nowrap shadow-lg
+}
+
+
+.btn-primary{
+  @apply bg-white text-slate-900 font-semibold hover:bg-slate-200
+}
+
+.btn-outline{
+  @apply border text-yellow-400  border-yellow-600 hover:border-yellow-300
+}
+
+
+.bubble{
+  @apply absolute -z-10 rounded-full blur-3xl opacity-20 
+}
