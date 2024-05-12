@@ -79,9 +79,9 @@ const EmailSection = () => {
         <h2 className="my-1 font-semibold text-3xl">Design</h2>
         <h2 className=" my-1 font-semibold text-3xl">To Gether</h2>
         <p className="mt-5 pr-10">
-          Ready to elevate your digital experience? Let's collaborate! Whether
-          you're seeking sleek UI designs or seamless UX solutions, I'm here to
-          bring your vision to life. Drop me a line and let's create something
+          Ready to elevate your digital experience? Lets collaborate! Whether
+          youre seeking sleek UI designs or seamless UX solutions, Im here to
+          bring your vision to life. Drop me a line and lets create something
           extraordinary together."
         </p>
       </div>
