@@ -82,7 +82,7 @@ const EmailSection = () => {
           Ready to elevate your digital experience? Lets collaborate! Whether
           youre seeking sleek UI designs or seamless UX solutions, Im here to
           bring your vision to life. Drop me a line and lets create something
-          extraordinary together."
+          extraordinary together.
         </p>
       </div>
       {emailSubmait ? (

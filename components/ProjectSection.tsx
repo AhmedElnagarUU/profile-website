@@ -19,7 +19,7 @@ export const ProjectSection = () => {
     <div id="Projects" className="mt-32  overflow-x-hidden text-center">
       <h2 className=" font-bold text-3xl">My Project</h2>
       <p className=" px-20 mt-5">
-        Transform your project into a masterpiece. Let's make your vision a
+        Transform your project into a masterpiece. Lets make your vision a
         reality.
       </p>
       <div className="overflow-x-h ext-nowrap text-sm md:font-medium mt-5 px-5 text-center text-slate-900 bg-white rounded-xl w-fit gap-x-6 mx-auto flex">
