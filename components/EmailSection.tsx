@@ -129,8 +129,8 @@ const EmailSection = () => {
           </button>
         </form>
       )}
-      <figure className="bubble  w-96 lg:w-[520px] h-60 bg-indigo-600 top-16 left-5 absolute" />
-      <figure className="bubble  w-96 lg:w-[700px] h-60 bg-sky-600 bottom-16 right-5 absolute" />
+      <figure className="bubble  w-32 lg:w-[520px] h-60 bg-indigo-600 top-5 left-5 " />
+      <figure className="bubble  w-32 lg:w-[700px] h-60 bg-sky-600 bottom-5 right-5 " />
     </section>
   );
 };

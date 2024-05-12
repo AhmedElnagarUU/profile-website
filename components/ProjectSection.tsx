@@ -22,7 +22,7 @@ export const ProjectSection = () => {
         Transform your project into a masterpiece. Lets make your vision a
         reality.
       </p>
-      <div className="overflow-x-h ext-nowrap text-sm md:font-medium mt-5 px-5 text-center text-slate-900 bg-white rounded-xl w-fit gap-x-6 mx-auto flex">
+      <div className="overflow-x-h text-nowra text-sm md:font-medium mt-5 px-5 text-center text-slate-900 bg-white rounded-xl w-fit gap-x-1 md:gap-x-6 mx-auto flex">
         <ButtonTag
           name={"all"}
           isSlected={tag === "all"}

@@ -4,7 +4,7 @@
 
 body{
  
-  @apply text-[hsl(220,47%,93%)]
+  @apply text-[hsl(220,47%,93%)] overflow-x-hidden
 }
 
 .btn{
@@ -22,5 +22,5 @@ body{
 
 
 .bubble{
-  @apply absolute -z-10 rounded-full blur-3xl opacity-20 
+  @apply  -z-10 rounded-full blur-3xl opacity-40 absolute 
 }
